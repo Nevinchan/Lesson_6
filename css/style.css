@@ -1,0 +1,165 @@
+
+
+@font-face{
+   font-family: lato;
+   src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+
+   @font-face{
+      font-family: lato;
+      src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+      font-display: swap;
+      font-weight: 900;
+      font-style: normal
+   }
+
+
+   @font-face{
+      font-family: lato;
+      src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+   }
+   
+
+   .title{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 56px;
+      max-width: 820px;
+      margin: 0 auto;  
+      margin-top: 50px;  
+      margin-bottom: 40px;
+      color: #1E212C;
+
+   }
+
+   .image{
+      width: 820px;
+      display: block;
+      margin:0 auto;
+      margin-bottom: 40px;
+   }
+
+   .text{
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 30px;
+      max-width: 815px;
+      margin: 0 auto; 
+      margin-bottom: 40px;
+      color: #424551;
+      
+   }
+
+   .text1{
+      
+      max-width: 815px;
+      margin: 0 auto; 
+      margin-bottom: 40px;
+      line-height: 25.6px;
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      color: #424551;
+
+   }
+
+   .text2{
+      max-width: 815px;
+      padding-left: 40px;
+      padding-right: 40px;
+      margin: 0 auto; 
+      margin-bottom: 40px;
+      font-family: lato;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 30px;
+      color: #1E212C;
+   }
+
+   .text3{
+      max-width: 730px;
+      margin: 0 auto; 
+      margin-bottom: 40px;
+      line-height: 25.6px;
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      color: #424551;
+      line-height: 35px;
+   }
+
+   .text4{
+      max-width: 815px;
+      margin: 0 auto; 
+      margin-bottom: 40px;
+      line-height: 25.6px;
+      font-family: lato;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      color: #424551;
+   }
+
+   
+
+   .block{
+      padding: 80px;
+      background-color: blue;
+      color: rgb(232, 17, 17);
+      min-width: 30px;
+      border-top:10px dotted #beda7d;
+      border-left: 15px solid #111216;
+      border-bottom:10px dashed #beda7d;
+      margin: 50px;
+      border-radius: 150px 40px 160px 30px;
+   }
+   .block1{
+      background-color: aqua;
+      padding: 50px;
+      outline: 10px solid #1E212C;
+      margin: 50px;
+
+   }
+   .block2{
+      padding: 50px;
+      background-color: crimson;
+      max-height: 95px;
+      overflow: auto;
+   }
+   .inline{
+      background-color: rgb(62, 5, 208);
+      display: block;
+      border-radius: 50%;
+      width: 200px;
+      height: 200px;
+      overflow: hidden;
+      margin: 0 auto 40px;
+      margin-top: 40px;
+      background-color: aqua;
+      box-shadow:  inset 5px 5px 5px 5px #000 ;
+   }
+   .inline1{
+      background-color: chartreuse;
+      display: block;
+
+   
+
+   .link{
+      outline: 10px solid red;
+      
+   }
+
+   
+
+   
+
